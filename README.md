@@ -4,4 +4,4 @@
 <h3 align="left"> 💞 I'm looking to collaborate on projects that are built with VueJs and Laravel</h3>
 <h3 align="left"> 🤝 I'm looking for help with some of my stuff that needs to be impoved</h3>
 <h3 align="left"> 📫 How to reach me <a href="https://twitter.com/YvanAhishakiye">Twitter</a>, <a href="#">yvanigorahishakiye@gmail.com</a></h3>
-<h3 align="left"> ⚡ Fun Fact **The best advice I ever received was to never give up and work hard**</h3>
+

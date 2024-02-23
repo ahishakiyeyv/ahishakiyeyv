@@ -6,3 +6,6 @@
 <h3 align="left"> 📫 How to reach me <a href="https://twitter.com/YvanAhishakiye">Twitter</a>, <a href="#">yvanigorahishakiye@gmail.com</a></h3>
 <h3 align="left"> 👉 Here is my <a href="https://ahishakiye.netlify.app/#/">Portfolio</a></h3>
 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahishakiyeyv)](https://github.com/ahishakiyeyv/github-readme-stats)

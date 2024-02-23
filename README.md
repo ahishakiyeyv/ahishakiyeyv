@@ -6,6 +6,8 @@
 <h3 align="left"> 📫 How to reach me <a href="https://twitter.com/YvanAhishakiye">Twitter</a>, <a href="#">yvanigorahishakiye@gmail.com</a></h3>
 <h3 align="left"> 👉 Here is my <a href="https://ahishakiye.netlify.app/#/">Portfolio</a></h3>
 
+<br>
+<img alt="stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ahishakiyeyv&show_icons=true&theme=radical"/>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahishakiyeyv)](https://github.com/ahishakiyeyv/github-readme-stats)
+<img alt="top languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahishakiyeyv&layout=compact&theme=radical"/>

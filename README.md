@@ -4,7 +4,6 @@
 <h3 align="left"> 💞 I'm looking to collaborate on projects that are built with VueJs and Laravel</h3>
 <h3 align="left"> 🤝 I'm looking for help with some of my stuff that needs to be impoved</h3>
 <h3 align="left"> 📫 How to reach me <a href="https://twitter.com/YvanAhishakiye">Twitter</a>, <a href="#">yvanigorahishakiye@gmail.com</a></h3>
-<h3 align="left"> 👉 Here is my <a href="https://ahishakiye.netlify.app/#/">Portfolio</a></h3>
 
 <br>
 <img alt="stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ahishakiyeyv&show_icons=true&theme=radical"/>

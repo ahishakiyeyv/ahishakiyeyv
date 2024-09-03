@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **yvanigorahishakiye@gmail.com**
 
-- ⚡ Fun fact **I feel I don't have experience but I do😎**
+- ⚡ Fun fact **I feel like I don't have experience but I do😎, it makes me keeping working hard**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
